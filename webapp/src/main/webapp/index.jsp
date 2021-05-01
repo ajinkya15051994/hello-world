@@ -1,4 +1,6 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
-<h3> I Love India </h3>
+<h1> Be with me 
+forever my love.
+I feel lucky to have 
+you in my life.
+I LOVE YOU ! </h1>
+
